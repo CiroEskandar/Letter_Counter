@@ -44,5 +44,5 @@ for x in bef_hast:
     m2 += 1
 
 print("las palabras clave encontradas fueron: ",key_words)
->>>>>>> d906f91d822104067c3ee7dd2b2eee6ab4a0c492
+
 print()
