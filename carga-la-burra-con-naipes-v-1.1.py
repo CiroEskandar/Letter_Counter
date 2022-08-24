@@ -7,6 +7,9 @@ from random import *
 #! la versión 2.0 no permite que eso exista, y la aleatoriedad del proceso se da cuando se decide el orden de lanzamiento 
 #! (allí si se toma en cuenta en empate y el proceso para resolverlo)
 
+#! this game differs from V 2.0 in the area where the tie-breaker is decided, here the tie is taken into account in the result of the tie-breaker.
+#! version 2.0 does not allow this, and the randomness of the process is given when deciding the order of the toss. 
+#! (there the tie and the process to resolve it are taken into account).
 
 
 #* listas para el registro de las cartas, en este caso son barajas de poker
